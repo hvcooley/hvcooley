@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at Citi as a Software Engineer
 - 🌱 I’m currently learning Spring Boot and Swift
-- 💬 Ask me about Quantum Computing
+- 💬 Ask me about Quantum Computing, I used to work at at Quantum Computing Lab
 - 📫 How to reach me... LinkedIn: https://www.linkedin.com/in/harrison-cooley-573b00192 and Email: harrison_v_cooley@me.com
 - ⚡ Fun fact: I play soccer ⚽️ and love Napoli S.S.C.!!! I also play guitar 🎸
 
