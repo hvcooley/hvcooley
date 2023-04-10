@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Citi as a Software Engineer
-- 🌱 I’m currently learning Spring Boot and Swift
+- 🔭 I’m currently working at Citi as a Software Engineer and at AfterFive as an iOS Engineer
+- 🌱 I’m currently learning Spring Boot!
 - 💬 Ask me about Quantum Computing, I used to work at at Quantum Computing Lab
 - 📫 How to reach me... 
   - LinkedIn: https://www.linkedin.com/in/harrison-cooley-573b00192
