@@ -1,5 +1,6 @@
-### Hi my name is Harrison and I am a Software Engineer at Citi 👋
+### Hi my name is Harrison 👋
 
+- 👔 I am a Software Engineer at Citi
 - 🔭 In my free time I work on a mobile app called AfterFive
 - 🌱 I’m currently learning Spring Boot and full stack web development!
 - 💬 Ask me about Quantum Computing, I used to work at at Quantum Computing Lab
