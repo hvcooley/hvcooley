@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there my name is Harrison I am a Software Engineer at Citi 👋
 
-- 🔭 I’m currently working at Citi as a Software Engineer and at AfterFive as an iOS Engineer
-- 🌱 I’m currently learning Spring Boot!
+- 🔭 I’m currently working on a mobile app called AfterFive
+- 🌱 I’m currently learning Spring Boot and full stack web development!
 - 💬 Ask me about Quantum Computing, I used to work at at Quantum Computing Lab
 - 📫 How to reach me... 
   - LinkedIn: https://www.linkedin.com/in/harrison-cooley-573b00192
