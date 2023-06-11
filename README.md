@@ -1,7 +1,7 @@
 ### Hi my name is Harrison 👋
 
 - 👔 I am a Software Engineer at Citi
-- 🔭 In my free time I work on a mobile app called AfterFive
+- 🔭 In my free time I work on a mobile app called Bar Hop
 - 🌱 I’m currently learning Spring Boot and full stack web development!
 - 💬 Ask me about Quantum Computing, I used to work at at Quantum Computing Lab
 - 📫 How to reach me... 
