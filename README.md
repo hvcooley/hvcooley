@@ -7,7 +7,7 @@
 - 📫 How to reach me... 
   - LinkedIn: https://www.linkedin.com/in/harrison-cooley-573b00192
   - Email: harrison_v_cooley@me.com
-- ⚡ Fun fact: I play soccer ⚽️ and love Napoli S.S.C.!!! I also play guitar 🎸
+- ⚡ Fun fact: I play soccer ⚽️ and love Napoli S.S.C.!!! I also play guitar and sing 🎸 
 
 <!--
 **hvcooley/hvcooley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
