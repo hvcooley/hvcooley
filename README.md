@@ -1,8 +1,8 @@
 ### Hi my name is Harrison 👋
 
 - 👔 I am a Senior Software Engineer at Citi
-- 🔭 In my free time I work on a webapp for youth soccer coaches to manage team rosters and stats
-- 🌱 I am an expert in backend development with the Java and Spring Boot tech stack!
+- 🔭 In my free time I work on a webapp for youth soccer coaches to manage team rosters and stats. I am also learning about GenAi and RAG for specialized agents
+- 🌱 I am an expert in backend development using Java and Spring Boot. I also enjoy Python/Django! 
 - 💬 Ask me about Quantum Computing, I used to work at at Quantum Computing Lab
 - 📫 How to reach me... 
   - LinkedIn: https://www.linkedin.com/in/harrison-cooley-573b00192
