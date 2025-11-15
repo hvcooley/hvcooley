@@ -1,8 +1,8 @@
 ### Hi my name is Harrison 👋
 
-- 👔 I am a Software Engineer at Citi
-- 🔭 In my free time I work on a mobile app called Bar Hop
-- 🌱 I’m currently learning Spring Boot and full stack web development!
+- 👔 I am a Senior Software Engineer at Citi
+- 🔭 In my free time I work on a webapp for youth soccer coaches to manage team rosters and stats
+- 🌱 I am an expert in backend development with the Java and Spring Boot tech stack!
 - 💬 Ask me about Quantum Computing, I used to work at at Quantum Computing Lab
 - 📫 How to reach me... 
   - LinkedIn: https://www.linkedin.com/in/harrison-cooley-573b00192
